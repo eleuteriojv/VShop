@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace VShop.ProductApi.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class AdicionandoBanco : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
